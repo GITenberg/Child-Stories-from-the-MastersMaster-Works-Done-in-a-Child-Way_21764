@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24875'
     url: http://www.gutenberg.org/2009/agents/24875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21764#Child-Stories-from-the-MastersMaster-Works-Done-in-a-Child-Way
 gutenberg_bookshelf: Children's Anthologies
 gutenberg_issued: '2007-06-08'
 gutenberg_type: Text
